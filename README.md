@@ -7,5 +7,5 @@ Here are some of my projects that I've worked on:
 Aviation Incidents & Accidents
 
 ## Python
-Tic Tac Toe game
+Tic Tac Toe game\
 Static & Dynamic Webscrapping
